@@ -1,0 +1,19 @@
+---------------------------------------------------------------
+DESKTOP-R20K0VC Realm startup at 2021-05-04 18:08:22.089
+---------------------------------------------------------------
+18:08:22.089  ------------------------------------------------------
+18:08:22.089  2021-05-04 18:08:22
+18:08:22.089  Diablo II running under Windows .Net (Version 6.002)
+18:08:22.089  Vendor:  Intel
+18:08:22.089  Version: Pentium III (no brand) (Type 0, Family 6, Model E, Stepping 3, Brand 0)
+18:08:22.097  Speed: Approx. 2591 MHz
+18:08:22.097  Total Physical Memory: 2048.00MB
+18:08:22.097  Application Path: D:\Games\Diablo II LOD\Diablo II
+18:08:22.117  Local IP: 192.168.1.65
+18:08:22.117  Computer name: DESKTOP-R20K0VC
+18:08:22.117  ------------------------------------------------------
+18:08:22.117  
+18:08:22.119  imagehlp.dll loaded for better stack crawls.
+18:08:23.312  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+18:08:23.330  ........DirectSound progress: 0 buffers available is less than min needed 16 buffers for 3d sound
+18:09:17.043  Error from MCP trying to create 'OhShitNotAgain' (err=21)
